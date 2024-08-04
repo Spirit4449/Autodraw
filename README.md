@@ -24,7 +24,7 @@ You can either download the executable file from the releases tab or follow thes
 
 ### Download Executable
 
-Download the `.exe` file from the [releases tab](https://github.com/user-attachments/assets/d6cb8315-3cb6-448a-8747-e5413bbdd9cb).
+Download the `.exe` file from the [releases tab](https://github.com/Spirit4449/Autodraw/releases/tag/Release)
 
 ### Clone and Install from Source
 
